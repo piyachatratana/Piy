@@ -1,1 +1,2 @@
-Mars is a cool planet. 
+Mars is a cool planet.
+Two moons are special.
